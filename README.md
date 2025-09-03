@@ -1,5 +1,7 @@
 # spotifyToMP3
 
+CURRENT STATUS: Waiting for approval for API keys to fully release youtube search features
+
 Convert Spotify tracks and playlists to MP3 files easily.
 
 ## Features
